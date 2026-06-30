@@ -8,7 +8,7 @@ This project features a custom-built calculation engine that **does not use `eva
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](https://niloufar-dev.github.io/your-repository-name/)**
+👉 **[View Live Demo](https://niloufar-dev.github.io/calculator/src/index.html )**
 ---
 ## 📸 Preview
 
